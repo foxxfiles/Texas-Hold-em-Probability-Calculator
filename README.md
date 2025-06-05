@@ -33,7 +33,7 @@ python3 ppoker.py
 ```cmd
 :: 1. Create and activate a virtual environment
 python -m venv venv
-venv\Scriptsctivate
+venv\Scripts\activate
 
 :: 2. Install project dependencies
 pip install -r requirements.txt
