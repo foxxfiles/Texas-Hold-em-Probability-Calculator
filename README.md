@@ -10,7 +10,7 @@ Follow these instructions to start the project from scratch on Linux, macOS, or 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/foxxfiles/texas-holdem-calculator.git
+git clone https://github.com/foxxfiles/Texas-Hold-em-Probability-Calculator.git
 cd texas-holdem-calculator
 ```
 
