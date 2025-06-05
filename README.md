@@ -79,7 +79,7 @@ If you want to enable AI-driven recommendations and chat features, create a `con
 You can add multiple AI configurations under the `api` object. If no `config.json` is provided, AI features will be disabled, and manual advice requests will not work.
 
 ## Usage guide
-
+![UI](./img/1.PNG)
 ### Launch the application
 
 1. Ensure that all dependencies are installed (see **Quick start**).
